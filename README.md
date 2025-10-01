@@ -25,8 +25,8 @@ Easy-to-understand implementations
 
 Clone the repository:
 
-git clone https://github.com/Mukeshburdak/cpp-projects.git
-cd cpp-projects
+git clone https://github.com/Mukeshburdak/Oops-using-cpp.git
+cd Oops-using-cpp
 
 
 Compile a program:
