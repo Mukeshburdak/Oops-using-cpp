@@ -1,0 +1,12 @@
+Enter the total no. of voters: 3
+Which candidate do you vote: 1
+Which candidate do you vote: 2
+Which candidate do you vote: 1
+Total votes to cand1=2
+Total votes to cand2=1
+Total votes to cand3=0
+Total votes to cand4=0
+Total votes to cand5=0
+Tie-break rule applied(if required): Candidate with lowest number wins.
+The winner candidate is: cand1 , Total votes = 2
+Total number of spoilt ballot: 0
