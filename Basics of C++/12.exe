@@ -1,0 +1,22 @@
+case:1
+Enter which case do you want to run : 
+-------Sum = 1-------**-------Sinx = 2------**-----cosx = 3-------
+Choose one option : 2
+
+Enter the value of sine angle : 60
+Output sin60 = 0.866025
+
+case:2
+Enter which case do you want to run : 
+-------Sum = 1-------**-------Sinx = 2------**-----cosx = 3-------
+Choose one option : 3
+
+Enter the value of cosine angle : 60
+Output cos60 = 0.5
+
+case:3
+Enter which case do you want to run : 
+-------Sum = 1-------**-------Sinx = 2------**-----cosx = 3-------
+Choose one option : 1
+Enter the value of series length : 5
+Output : 1.29126
