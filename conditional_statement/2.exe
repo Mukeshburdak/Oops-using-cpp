@@ -1,0 +1,24 @@
+case 1:
+Please enter price of items for checout enter 0. 
+Enter item price (o to checkout): 120
+Enter item price (o to checkout): 2000
+Enter item price (o to checkout): 320
+Enter item price (o to checkout): 5201
+Enter item price (o to checkout): 420
+Enter item price (o to checkout): 0
+*-------------*-----------------*-------------*-----------------*
+Total Bill (before discount): 8061
+Discount Applied: 806.1
+Final Bill: 7254.9
+
+case 2:
+Enter item price (o to checkout): 520
+Enter item price (o to checkout): 320
+Enter item price (o to checkout): 156
+Enter item price (o to checkout): 200
+Enter item price (o to checkout): 420
+Enter item price (o to checkout): 0
+*-------------*-----------------*-------------*-----------------*
+Total Bill (before discount): 1616
+Discount Applied: 0
+Final Bill: 1616
