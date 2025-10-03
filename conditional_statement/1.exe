@@ -1,0 +1,15 @@
+case 1:
+Enter the password : Name@12
+Uppercase Letters: 1
+Lowercase Letters: 3
+Digits: 2
+Special Characters: 1
+Password Strength: Moderate
+
+case 2:
+Enter the password : Name@123abc
+Uppercase Letters: 1
+Lowercase Letters: 6
+Digits: 3
+Special Characters: 1
+Password Strength: Strong
