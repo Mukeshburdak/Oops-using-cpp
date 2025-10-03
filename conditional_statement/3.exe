@@ -1,0 +1,15 @@
+case 1:
+Enter traffic light color: red
+Stop!
+
+case 2:
+Enter traffic light color: yellow
+Get Ready
+
+case 3:
+Enter traffic light color: green
+Go
+
+case 4:
+Enter traffic light color: blue
+Invalid input
