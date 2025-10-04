@@ -1,0 +1,10 @@
+case 1:
+Enter the value of number : 6
+for input power of number type yes : yes
+Enter the value of power : 3
+Output is n^p: 216
+
+case 2:
+Enter the value of number : 3
+for input power of number type yes : no
+Output by default is squared of number : 9
