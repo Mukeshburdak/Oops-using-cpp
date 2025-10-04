@@ -1,0 +1,9 @@
+case 1:
+If you want to enter value of rectangle parameter length/width enter 1 and else enter 2: 1
+Enter the lenght of rectangle : 6
+Enter the width of rectangle : 5
+Area of Rectangle : 30
+
+case 2:
+If you want to enter value of rectangle parameter length/width enter 1 and else enter 2: 2
+By default Area of Rectangle : 50
