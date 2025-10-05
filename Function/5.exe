@@ -1,0 +1,71 @@
+Choose one option:
+1 - Add Details
+2 - Update Details
+3 - Update CGPA
+4 - Update Residence Info
+5 - Display Details
+0 - Exit
+Your choice: 1
+Enter the Details of Yourself : 
+Enter your Name : Mukesh Burdak
+Enter your Rollno : 32
+Enter your Degree : Btech
+Enter your Hostel Details : hostel
+Enter your Current CGPA : 9
+
+Choose one option:
+1 - Add Details
+2 - Update Details
+3 - Update CGPA
+4 - Update Residence Info
+5 - Display Details
+0 - Exit
+Your choice: 3
+Please Update your CGPA : 9.1
+
+Choose one option:
+1 - Add Details
+2 - Update Details
+3 - Update CGPA
+4 - Update Residence Info
+5 - Display Details
+0 - Exit
+Your choice: 4
+Please update Residence info : hostel
+
+Choose one option:
+1 - Add Details
+2 - Update Details
+3 - Update CGPA
+4 - Update Residence Info
+5 - Display Details
+0 - Exit
+Your choice: 4
+Please update Residence info : hostel
+
+Choose one option:
+1 - Add Details
+2 - Update Details
+3 - Update CGPA
+4 - Update Residence Info
+5 - Display Details
+0 - Exit
+Your choice: 5
+
+------ Student Details ------
+Name = Mukesh Burdak
+Rollno = 32
+Degree = Btech
+Current CGPA = 9.1
+Hostel = hostel
+-----------------------------
+
+Choose one option:
+1 - Add Details
+2 - Update Details
+3 - Update CGPA
+4 - Update Residence Info
+5 - Display Details
+0 - Exit
+Your choice: 0
+Exiting program
