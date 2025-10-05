@@ -1,0 +1,25 @@
+case 1:
+Enter the value of a : 5
+Enter the value of b : 6
+
+Choose one option:
+1 - sum
+2 - subtract
+3 - multipy
+4 - division
+Your choice: 1
+Simple operation on data : 
+Sum of two numbers : 11
+
+case 2:
+Enter the value of a : 42
+Enter the value of b : 2
+
+Choose one option:
+1 - sum
+2 - subtract
+3 - multipy
+4 - division
+Your choice: 4
+Simple operation on data :
+Division of two numbers : 21
