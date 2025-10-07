@@ -1,0 +1,20 @@
+Please input the rectangle Geometry : 
+Enter the length of rectangle : 6
+Enter the breadth of rectangle : 3
+User provide the dimensions of the rectangle : 
+Length of Rectangle : 6
+Breadth of Rectangle : 3
+Perimeter of Rectangle : 18
+Area of Rectangle : 18
+
+Rectangle 2: 
+Please input the rectangle Geometry : 
+Enter the length of rectangle : 3
+Enter the breadth of rectangle : 6
+User provide the dimensions of the rectangle : 
+Length of Rectangle : 3
+Breadth of Rectangle : 6
+Perimeter of Rectangle : 18
+Area of Rectangle : 18
+
+Both rectangle have same area :
