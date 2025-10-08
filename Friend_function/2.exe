@@ -1,0 +1,25 @@
+Enter the details of product :
+Enter the product name : phone
+Enter the price of product : 50000
+Enter the discount in percentage on the product : 0.1
+Enter the product name : charger
+Enter the price of product : 500
+Enter the discount in percentage on the product : 0.01
+Enter the product name : earphone
+Enter the price of product : 200
+Enter the discount in percentage on the product : 0.001
+Enter the product name : book
+Enter the price of product : 540
+Enter the discount in percentage on the product : 0.0001
+Enter the product name : shoes
+Enter the price of product : 700
+Enter the discount in percentage on the product : 0.02
+
+***----------- Bill to paid ---------***
+product         price           Discount
+phone           50000           0.1
+charger         500             0.01
+earphone                200             0.001
+book            540             0.0001
+shoes           700             0.02
+Total amount to be paid : 46920.7
