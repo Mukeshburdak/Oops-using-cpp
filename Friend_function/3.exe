@@ -1,0 +1,6 @@
+This platform for calculating/Addition of distances :
+Choose one option for input in meter[1] and for centimeter[2] : 1
+Enter the distance in meter : 225
+Choose one option for input in feet[1] and for inches[2] : 2
+Enter the distance in inches : 65
+Distance in meter : 226.651
