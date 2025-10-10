@@ -1,0 +1,13 @@
+Welcome to xyz bank
+Enter the Account Holder name : Mukesh Burdak
+Enter the account number : 123456
+Enter the balance of your account : 200
+Your account details are fetch : 
+Account Holder name : Mukesh Burdak
+Account Number : 123456
+Balance : 200
+Current balance : 200
+Enter amount you want to deposit : 500
+Current balance : 700
+Enter the amount you want to withdraw : 100
+Account balance : 600
