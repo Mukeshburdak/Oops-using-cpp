@@ -1,5 +1,6 @@
 Q1. Design a C++ program for a Rectangle Geometry Application that demonstrates the use of friend 
-functions. 
+functions.
+
 The program must satisfy the following requirements: 
 Define a class Rectangle with the following private members and public member functions: 
 • float length 
@@ -18,7 +19,7 @@ Assume the rectangles represent plots of land in a real-estate system. The progr
 4. If areas are equal, display that the plots are of the same size. 
 
 
-
+---
 Q2.  Design a C++ program that simulates a simple e-commerce discount system using the concept 
 of friend functions. The system should allow customers to see the original price of products, apply a 
 discount, and display the final payable price. 
@@ -39,7 +40,7 @@ o Discount Percentage
 o Final Price after Discount 
 
 
-
+---
 Q3. Create two classes DM and DB which store the value of distances. DM stores distances in metres 
 and centimetres and DB in feet and inches. Write a program that can read values for the class objects 
 and add one object of DM with another object of DB. 
@@ -49,7 +50,7 @@ The display should be in the format of feet and inches or metres and centimetres
 object on display. 
 
 
-
+---
 Q4. Develop a Bank Transaction System in C++ that simulates how deposits and withdrawals are 
 managed in a bank account. 
 The program should use two classes: 
